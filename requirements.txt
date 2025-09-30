@@ -1,0 +1,12 @@
+openai
+python-dotenv
+langchain-openai
+#langchain-ollama
+#langchain-llamaindex
+#langchain-anthropic
+#langchain--perplexity
+#langchain-huggingface
+#langchain-google-genai
+transformers
+torch
+streamlit
